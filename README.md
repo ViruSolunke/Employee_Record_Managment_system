@@ -24,13 +24,17 @@
 
 ### 📷 Application Screenshots
 
+#### Main Page
+
+![Main Page](images/main_page.png)
+
 #### Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/overview.png)
 
 #### Employee Management
 
-![Employee Management](images/employees_page.png)
+![Employee Management](images/employee_page.png)
 
 #### Attendance Module
 
@@ -43,6 +47,10 @@
 #### Leave Managment Page
 
 ![Reports](images/leave_managment_page.png)
+
+#### Profile Setting
+
+![Profile Page](images/profile_setting_page.png)
 
 ---
 
