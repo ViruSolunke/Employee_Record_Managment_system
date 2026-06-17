@@ -30,7 +30,7 @@
 
 #### Dashboard
 
-![Dashboard](images/overview.png)
+![Dashboard](images/overview_page.png)
 
 #### Employee Management
 
