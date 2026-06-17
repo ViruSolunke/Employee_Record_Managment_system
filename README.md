@@ -26,23 +26,23 @@
 
 #### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 #### Employee Management
 
-![Employee Management](screenshots/employees.png)
+![Employee Management](images/employees_page.png)
 
 #### Attendance Module
 
-![Attendance](screenshots/attendance.png)
+![Attendance](images/attendance-page.png)
 
 #### Payroll Module
 
-![Payroll](screenshots/payroll.png)
+![Payroll](images/payroll_page.png)
 
-#### Reports
+#### Leave Managment Page
 
-![Reports](screenshots/reports.png)
+![Reports](images/leave_managment_page.png)
 
 ---
 
